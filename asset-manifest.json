@@ -1,11 +1,11 @@
 {
   "main.css": "/travel-co/static/css/main.ec186fa5.chunk.css",
-  "main.js": "/travel-co/static/js/main.fe2436bf.chunk.js",
-  "main.js.map": "/travel-co/static/js/main.fe2436bf.chunk.js.map",
+  "main.js": "/travel-co/static/js/main.77e6b8d7.chunk.js",
+  "main.js.map": "/travel-co/static/js/main.77e6b8d7.chunk.js.map",
   "static/js/1.6e9ec818.chunk.js": "/travel-co/static/js/1.6e9ec818.chunk.js",
   "static/js/1.6e9ec818.chunk.js.map": "/travel-co/static/js/1.6e9ec818.chunk.js.map",
-  "static/js/2.0cf00d28.chunk.js": "/travel-co/static/js/2.0cf00d28.chunk.js",
-  "static/js/2.0cf00d28.chunk.js.map": "/travel-co/static/js/2.0cf00d28.chunk.js.map",
+  "static/js/2.1f05e060.chunk.js": "/travel-co/static/js/2.1f05e060.chunk.js",
+  "static/js/2.1f05e060.chunk.js.map": "/travel-co/static/js/2.1f05e060.chunk.js.map",
   "runtime~main.js": "/travel-co/static/js/runtime~main.36ae1276.js",
   "runtime~main.js.map": "/travel-co/static/js/runtime~main.36ae1276.js.map",
   "static/media/Sunset_Swinging04_MP4_HDV_1080p25__TanuriX_Stock_Footage_NS.mp4": "/travel-co/static/media/Sunset_Swinging04_MP4_HDV_1080p25__TanuriX_Stock_Footage_NS.bb5c7e7e.mp4",
@@ -20,6 +20,6 @@
   "static/media/pexels-francesco-ungaro-998646.jpg": "/travel-co/static/media/pexels-francesco-ungaro-998646.109c9500.jpg",
   "static/css/main.ec186fa5.chunk.css.map": "/travel-co/static/css/main.ec186fa5.chunk.css.map",
   "index.html": "/travel-co/index.html",
-  "precache-manifest.865e365cd000c5d3a61eebc5c97f2165.js": "/travel-co/precache-manifest.865e365cd000c5d3a61eebc5c97f2165.js",
+  "precache-manifest.d835f3b6b124967213288cb2ffedb4cc.js": "/travel-co/precache-manifest.d835f3b6b124967213288cb2ffedb4cc.js",
   "service-worker.js": "/travel-co/service-worker.js"
 }
