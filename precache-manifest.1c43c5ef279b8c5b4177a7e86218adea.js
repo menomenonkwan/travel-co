@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "a2b59cc94bcd77c4a333",
+    "revision": "f223f76103e7038a46c3",
     "url": "/travel-co/static/css/main.ec186fa5.chunk.css"
   },
   {
-    "revision": "a2b59cc94bcd77c4a333",
-    "url": "/travel-co/static/js/main.a2b59cc9.chunk.js"
+    "revision": "f223f76103e7038a46c3",
+    "url": "/travel-co/static/js/main.f223f761.chunk.js"
   },
   {
     "revision": "6e9ec818f166d9b943af",
     "url": "/travel-co/static/js/1.6e9ec818.chunk.js"
   },
   {
-    "revision": "0cf00d28778f98a5ac02",
-    "url": "/travel-co/static/js/2.0cf00d28.chunk.js"
+    "revision": "1f05e06001eabf0484f8",
+    "url": "/travel-co/static/js/2.1f05e060.chunk.js"
   },
   {
     "revision": "36ae127669fe962f2e83",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/travel-co/static/media/pexels-francesco-ungaro-998646.109c9500.jpg"
   },
   {
-    "revision": "254d69e55b6cd7d4fe0d41967c90f8e4",
+    "revision": "cb23095d438552e2c8ea9d380564da8b",
     "url": "/travel-co/index.html"
   }
 ];
