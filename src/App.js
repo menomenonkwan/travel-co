@@ -10,7 +10,7 @@ import Contact from './components/Contact';
 import Cart from './components/Cart';
 import Footer from './components/Footer';
 import NotFound from './components/NotFound';
-import { Switch, Route, useLocation } from "react-router-dom";
+import { HashRouter, Switch, Route, useLocation } from "react-router-dom";
 import { AnimatePresence } from 'framer-motion';
 import { generateReviewer } from './assets/Utils';
 
@@ -40,6 +40,7 @@ function App() {
   }
 
   return (
+    <HashRouter basename={process.env.PUBLIC_URL}>
     <div className="App">
       <Background />
       <Nav />  
@@ -64,6 +65,7 @@ function App() {
       </AnimatePresence> 
       <Footer />
     </div>
+    </HashRouter>
   );
 }
 
