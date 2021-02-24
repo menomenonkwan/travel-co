@@ -1,7 +1,7 @@
 {
-  "main.css": "/travel-co/static/css/main.46673fc5.chunk.css",
-  "main.js": "/travel-co/static/js/main.d0909944.chunk.js",
-  "main.js.map": "/travel-co/static/js/main.d0909944.chunk.js.map",
+  "main.css": "/travel-co/static/css/main.c4b4c56d.chunk.css",
+  "main.js": "/travel-co/static/js/main.9d8e5e74.chunk.js",
+  "main.js.map": "/travel-co/static/js/main.9d8e5e74.chunk.js.map",
   "static/js/1.6e9ec818.chunk.js": "/travel-co/static/js/1.6e9ec818.chunk.js",
   "static/js/1.6e9ec818.chunk.js.map": "/travel-co/static/js/1.6e9ec818.chunk.js.map",
   "static/js/2.1f05e060.chunk.js": "/travel-co/static/js/2.1f05e060.chunk.js",
@@ -18,8 +18,8 @@
   "static/media/pexels-yaroslav-shuraev-6881610.jpg": "/travel-co/static/media/pexels-yaroslav-shuraev-6881610.efd11f64.jpg",
   "static/media/pexels-tom-leishman-5258144.jpg": "/travel-co/static/media/pexels-tom-leishman-5258144.66ac0628.jpg",
   "static/media/pexels-francesco-ungaro-998646.jpg": "/travel-co/static/media/pexels-francesco-ungaro-998646.109c9500.jpg",
-  "static/css/main.46673fc5.chunk.css.map": "/travel-co/static/css/main.46673fc5.chunk.css.map",
+  "static/css/main.c4b4c56d.chunk.css.map": "/travel-co/static/css/main.c4b4c56d.chunk.css.map",
   "index.html": "/travel-co/index.html",
-  "precache-manifest.bfb6c83ee4f826d2dc4d24ca61285caf.js": "/travel-co/precache-manifest.bfb6c83ee4f826d2dc4d24ca61285caf.js",
+  "precache-manifest.881aee73d3795f73d1fd239dc2157924.js": "/travel-co/precache-manifest.881aee73d3795f73d1fd239dc2157924.js",
   "service-worker.js": "/travel-co/service-worker.js"
 }
