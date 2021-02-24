@@ -23,16 +23,16 @@ const Nav = () => {
       <ul 
         className={open ? "nav-links mobile-open" : "nav-links mobile-close"}
       >
-        <NavLink style={linkStyles} to="/travel" onClick={()=>setOpen(false)}>
+        <NavLink style={linkStyles} to="/travel-co/travel" onClick={()=>setOpen(false)}>
           <li>Travel</li>
         </NavLink>
-        <NavLink style={linkStyles} to="/tips" onClick={()=>setOpen(false)}>
+        <NavLink style={linkStyles} to="/travel-co/tips" onClick={()=>setOpen(false)}>
           <li>Travel Tips</li>
         </NavLink>
-        <NavLink style={linkStyles} to="/about" onClick={()=>setOpen(false)}>
+        <NavLink style={linkStyles} to="/travel-co/about" onClick={()=>setOpen(false)}>
           <li>About</li>
         </NavLink>
-        <NavLink style={linkStyles} to="/contact" onClick={()=>setOpen(false)}>
+        <NavLink style={linkStyles} to="/travel-co/contact" onClick={()=>setOpen(false)}>
           <li>Contact</li>
         </NavLink>
       </ul>

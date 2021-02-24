@@ -25,7 +25,8 @@ const dots = ['.','.','.'];
 const Home = () => {
   return (
     <div className="container">
-      <motion.h2 
+      <motion.h2
+        className="solo" 
         variants={containerVariants}
         initial="hidden"
         animate="visible"
@@ -35,7 +36,6 @@ const Home = () => {
         {dots.map((dot, i) => (
           <motion.span
             variants={motionVariants}    
-           
             key={i}
           >
             {dot}

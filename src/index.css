@@ -246,6 +246,10 @@ footer p {
   display: none;
 }
 
+.solo {
+  text-align: center;
+}
+
 @media (max-width: 1000px) {
   nav {
     -webkit-box-orient: vertical;

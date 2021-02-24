@@ -10,7 +10,7 @@ import Contact from './components/Contact';
 import Cart from './components/Cart';
 import Footer from './components/Footer';
 import NotFound from './components/NotFound';
-import { HashRouter, Switch, Route, useLocation } from "react-router-dom";
+import { Switch, Route, useLocation } from "react-router-dom";
 import { AnimatePresence } from 'framer-motion';
 import { generateReviewer } from './assets/Utils';
 
@@ -38,26 +38,24 @@ function App() {
     const items = await data.json();
     setSafety(items.data);
   }
-
   return (
-    <HashRouter basename={process.env.PUBLIC_URL}>
     <div className="App">
       <Background />
       <Nav />  
       <AnimatePresence exitBeforeEnter> 
         <Switch location={location} key={location.key}>
-          <Route exact path="/" component={Home} />
-          <Route path="/travel">
+          <Route exact path="/travel-co/" component={Home} />
+          <Route path="/travel-co/travel">
             <Travel cart={cart} setCart={setCart} />
           </Route>
-          <Route path="/tips">
+          <Route path="/travel-co/tips">
             <Tips safety={safety} />
           </Route>
-          <Route path="/about">
+          <Route path="/travel-co/about">
             <About employees={employees} />
           </Route>
-          <Route path="/contact" component={Contact} />
-          <Route path="/cart">
+          <Route path="/travel-co/contact" component={Contact} />
+          <Route path="/travel-co/cart">
             <Cart cart={cart} setCart={setCart} />
           </Route>
           <Route component={NotFound} />
@@ -65,7 +63,7 @@ function App() {
       </AnimatePresence> 
       <Footer />
     </div>
-    </HashRouter>
+    // </HashRouter>
   );
 }
 

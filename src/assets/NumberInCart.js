@@ -5,7 +5,7 @@ import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
 const NumberInCart = ({cart}) => {
   return (
     <div className="kart">
-      <Link to={'/cart'}>
+      <Link to={'/travel-co/cart'}>
         <button type="button">
           view cart<ShoppingCartIcon />
         </button>
